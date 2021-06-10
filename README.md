@@ -8,3 +8,5 @@ testers
 business analysts
 mobile app devolpers
 devops
+
+they all play a crucial role

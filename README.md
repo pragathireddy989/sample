@@ -9,4 +9,5 @@ business analysts
 mobile app devolpers
 devops
 
-they all play a crucial role in development
+they all play a crucial role in development in the company
+

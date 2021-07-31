@@ -1,6 +1,6 @@
 # sample
 sample repository
-emlpoyees list given below
+emlpoyees list given below with their particulars
 
 front end developers
 back end developers
